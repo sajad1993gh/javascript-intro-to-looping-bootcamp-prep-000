@@ -19,6 +19,8 @@ function forLoop(array){
     }
   }
   function doWhileLoop(array){
-    
+    do{
+      
+    } while()
   }
   
