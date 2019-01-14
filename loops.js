@@ -1,7 +1,7 @@
 function forLoop(array){
   
-  for (var i = 1; i < 100; i++) {
-  console.log("Hello World the " + i + " time");
+  for (var i = 0; i < 25; i++) {
+  console.log("I am " + i + " strange loop");
   }
 
 }
