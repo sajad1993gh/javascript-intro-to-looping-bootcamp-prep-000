@@ -15,7 +15,7 @@ function forLoop(array){
     }
     console.log("done")
     }
-  }
+
   function incrementVariable() {
   i = i + 1;
 }
