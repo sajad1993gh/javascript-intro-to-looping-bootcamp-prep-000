@@ -18,4 +18,7 @@ function forLoop(array){
     console.log("done")
     }
   }
+  function doWhileLoop(array){
+    
+  }
   
