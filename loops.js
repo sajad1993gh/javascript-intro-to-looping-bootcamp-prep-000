@@ -18,9 +18,12 @@ function forLoop(array){
     console.log("done")
     }
   }
+  function incrementVariable() {
+  i = i + 1;
+}
   function doWhileLoop(array){
     do{
-      
-    } while()
+      return array
+    } while(array.length>0 && incrementVariable())
   }
   
