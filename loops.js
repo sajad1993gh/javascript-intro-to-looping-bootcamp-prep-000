@@ -14,7 +14,6 @@ function forLoop(array){
     while(n>0){
     console.log(--n);
     }
-    --n
     if(n===0){
     console.log("done")
     }
